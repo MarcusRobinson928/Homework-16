@@ -1,2 +1,1 @@
-# Homework-16
-assignment 16
+# Webpage gird layout using HTML and CSS
